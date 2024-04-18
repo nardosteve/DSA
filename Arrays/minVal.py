@@ -9,3 +9,9 @@ for i in my_array:
         minVal = i
 
 print('Lowest Value:', minVal)
+
+# Time Complexity:
+# 
+#
+#
+#
